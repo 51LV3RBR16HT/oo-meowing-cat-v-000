@@ -4,7 +4,7 @@ class Cat
   cat_name = Cat.new
   cat_name = "Maru"
 
-  def maru_meow
+  def meow
     puts "meow!"
   end
 end
