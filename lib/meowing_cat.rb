@@ -6,4 +6,5 @@ class Cat
 
   maru_meow = Cat.new
   maru_meow = "Meow"
+  puts maru_meow
 end
