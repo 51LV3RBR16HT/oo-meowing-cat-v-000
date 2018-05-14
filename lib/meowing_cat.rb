@@ -4,4 +4,6 @@ class Cat
   cat_name = Cat.new
   cat_name = "Maru"
 
+  maru_meow = Cat.new
+  maru_meow = "Meow"
 end
