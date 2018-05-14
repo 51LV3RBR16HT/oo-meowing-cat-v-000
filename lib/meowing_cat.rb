@@ -5,7 +5,7 @@ class Cat
   cat_name = "Maru"
 
   def meow
-    puts "meow"
+    puts "meow!"
   end
-  
+
 end
